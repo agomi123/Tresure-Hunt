@@ -1,0 +1,37 @@
+
+.contine{
+   align-items: center;
+   justify-content: center;
+   /* width: 500px; */
+   padding: 60px;
+    display: flex;
+}
+.ptr{
+    display: block;
+}
+.mer{
+    width: 300px;
+    padding: 20px;
+}
+.abs{
+    font-size: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex
+}
+.pl{
+    font-size: 1.6em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color:#007080;
+}
+
+.abt{
+    background-color: rgb(230, 230, 230);
+    justify-content: center;
+    align-items: center;
+    display: block;
+
+}

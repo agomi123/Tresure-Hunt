@@ -1,0 +1,38 @@
+.maincon{
+    display: flex;
+    background-color: #f8f8fc;
+    min-height: 200px;
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+}
+.im1{
+    width: 300px;
+    height: 300px;
+    background: transparent;
+}
+.bt{
+       /* display: grid; */
+       width: 190px;
+       padding: center;
+       display: grid;
+       /* align-content: center; */
+       padding: 10px;
+       color: white;
+       border-radius: 10px;
+       margin-bottom: 20px;
+       background-color: rgb(5, 5, 5);
+       align-items: center;
+}
+.ipt{
+   
+    align-items: center;
+    padding: 20px;
+    
+    display: grid;
+}
+
+.ip1{
+    border-radius: 10px;
+    min-height: 100px;
+}
