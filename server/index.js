@@ -38,8 +38,11 @@ app.use("/api", answerRoutes);
 app.use("/api", scoreRoutes);
 app.use("/api", getAllUsers);
 
+// this is port
 
 const port = process.env.PORT || 8000;
+
+
 
 app.listen(8000, (req, res)=>{
     console.log(`Server is running on port ${port}`);
